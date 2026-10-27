@@ -1,2 +1,4 @@
 .env
 node_modules
+cleardb.js
+listModels.js
